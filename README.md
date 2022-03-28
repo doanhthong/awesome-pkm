@@ -28,6 +28,7 @@ Find the interactive collection here: https://centroly.com/anthonytd/awesome-pkm
 		- [Roam Research – A note taking tool for networked thought.](https://roamresearch.com/)
 - Bookmarking Tools
 	- [Centroly - Social Bookmarking Tool](https://centroly.com)
+	- [diigo](https://diigo.com)
 	- [Readwise](https://readwise.io/)
 	- [Raindrop.io](https://raindrop.io/)
 - Frameworks
