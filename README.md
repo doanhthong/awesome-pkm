@@ -16,6 +16,7 @@ Interactive List here: ...
 		- [RemNote | The All-in-One Tool for Thinking and Learning](https://www.remnote.com/)
 		- [Obsidian](https://obsidian.md/) 
 		- [Coda](https://coda.io)
+		- [Mem.ai](https://mem.ai/)
 		- Evernote
 		- Onenote
 		- [Craft - Taking notes to the next level](https://www.craft.do/)
