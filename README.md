@@ -2,7 +2,7 @@
 
 A curated list of awesome tools to take notes and build your own PKM. PRs are welcome.
 
-Interactive List here: ...
+Find the interactive collection here: https://centroly.com/anthonytd/awesome-pkm-3knq17oq0d
 
 - Note-taking Tools
 	- Open-source
