@@ -12,7 +12,7 @@ What is PKM (Personal Knowledge Management): https://en.wikipedia.org/wiki/Perso
 		- [Logseq: A privacy-first, open-source knowledge base](https://logseq.com/)
 		- [tiddlyroam · your open source external brain](https://tiddlyroam.org/)
 		- [Foam | A personal knowledge management and sharing system for VSCode](https://foambubble.github.io/foam/)
-		- [Athensresearch)](https://www.athensresearch.org/)
+		- [Athensresearch](https://www.athensresearch.org/)
 		- [Org-roam](https://www.orgroam.com/)
 	- SaaS with free plan
 		- [Notion](https://notion.so)
@@ -29,6 +29,9 @@ What is PKM (Personal Knowledge Management): https://en.wikipedia.org/wiki/Perso
 		- [Reflect](https://reflect.app/)
 	- SaaS no free plan
 		- [Roam Research – A note taking tool for networked thought.](https://roamresearch.com/)
+	- Visual Note-taking Tools
+		- [Heptabase](https://heptabase.com/)
+		- [Muse App](https://museapp.com/)
 - Bookmarking Tools
 	- [Centroly - Social Bookmarking Tool](https://centroly.com)
 	- [diigo](https://diigo.com)
