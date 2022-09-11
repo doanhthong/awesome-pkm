@@ -27,11 +27,13 @@ What is PKM (Personal Knowledge Management): https://en.wikipedia.org/wiki/Perso
 		- [Scrapbox - An app that turns your notes into knowledge](https://scrapbox.io/)
 		- [Ultimate digital graph notebook | Relanote](https://relanote.com/)
 		- [Reflect](https://reflect.app/)
+		- https://capacities.io/
 	- SaaS no free plan
 		- [Roam Research – A note taking tool for networked thought.](https://roamresearch.com/)
 	- Visual Note-taking Tools
 		- [Heptabase](https://heptabase.com/)
 		- [Muse App](https://museapp.com/)
+		- https://cloverapp.com/
 - Bookmarking Tools
 	- [Centroly - Social Bookmarking Tool](https://centroly.com)
 	- [diigo](https://diigo.com)
