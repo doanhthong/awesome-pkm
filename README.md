@@ -4,6 +4,9 @@ A curated list of awesome tools to take notes and build your own PKM. PRs are we
 
 Find the interactive collection here: https://centroly.com/anthonytd/awesome-pkm-3knq17oq0d
 
+What is PKM (Personal Knowledge Management): https://en.wikipedia.org/wiki/Personal_knowledge_management
+
+
 - Note-taking Tools
 	- Open-source
 		- [Logseq: A privacy-first, open-source knowledge base](https://logseq.com/)
