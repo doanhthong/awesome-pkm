@@ -20,6 +20,7 @@ What is PKM (Personal Knowledge Management): https://en.wikipedia.org/wiki/Perso
 		- [Obsidian](https://obsidian.md/) 
 		- [Coda](https://coda.io)
 		- [Mem.ai](https://mem.ai/)
+  		- [Yaranga | Free personal knowledge & task management tool](https://yaranga.net/)
 		- Evernote
 		- Onenote
 		- [Craft - Taking notes to the next level](https://www.craft.do/)
