@@ -34,6 +34,7 @@ What is PKM (Personal Knowledge Management): https://en.wikipedia.org/wiki/Perso
 		- [Heptabase](https://heptabase.com/)
 		- [Muse App](https://museapp.com/)
 		- https://cloverapp.com/
+   		- [Taskade – Collaborative outlining and AI-powered productivity.](https://taskade.com)
 - Bookmarking Tools
 	- [Centroly - Social Bookmarking Tool](https://centroly.com)
 	- [diigo](https://diigo.com)
