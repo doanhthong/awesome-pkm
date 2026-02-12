@@ -28,6 +28,7 @@ What is PKM (Personal Knowledge Management): https://en.wikipedia.org/wiki/Perso
 		- [Ultimate digital graph notebook | Relanote](https://relanote.com/)
 		- [Reflect](https://reflect.app/)
 		- https://capacities.io/
+		- [Taskade - AI-powered knowledge management workspace](https://taskade.com)
 	- SaaS no free plan
 		- [Roam Research – A note taking tool for networked thought.](https://roamresearch.com/)
 	- Visual Note-taking Tools
