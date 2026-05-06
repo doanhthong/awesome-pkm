@@ -14,6 +14,7 @@ What is PKM (Personal Knowledge Management): https://en.wikipedia.org/wiki/Perso
 		- [Foam | A personal knowledge management and sharing system for VSCode](https://foambubble.github.io/foam/)
 		- [Athensresearch](https://www.athensresearch.org/)
 		- [Org-roam](https://www.orgroam.com/)
+		- [Memex - An open-source, local-first AI journal for iOS and Android that turns text, photo and voice fragments into structured timeline cards and organizes knowledge using the P.A.R.A. methodology.](https://github.com/memex-lab/memex)
 	- SaaS with free plan
 		- [Notion](https://notion.so)
 		- [RemNote | The All-in-One Tool for Thinking and Learning](https://www.remnote.com/)
