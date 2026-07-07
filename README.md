@@ -14,6 +14,7 @@ What is PKM (Personal Knowledge Management): https://en.wikipedia.org/wiki/Perso
 		- [Foam | A personal knowledge management and sharing system for VSCode](https://foambubble.github.io/foam/)
 		- [Athensresearch](https://www.athensresearch.org/)
 		- [Org-roam](https://www.orgroam.com/)
+		- [OATS - open-source macOS meeting notes with live transcription and offline AI summaries](https://github.com/ariso-ai/oats)
 	- SaaS with free plan
 		- [Notion](https://notion.so)
 		- [RemNote | The All-in-One Tool for Thinking and Learning](https://www.remnote.com/)
