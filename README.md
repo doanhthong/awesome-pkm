@@ -43,3 +43,4 @@ What is PKM (Personal Knowledge Management): https://en.wikipedia.org/wiki/Perso
 	- [LYT Kit - LYT Kit (linkingyourthinking.com)](https://notes.linkingyourthinking.com/Umami/LYT+Kit)
 	- [Building a Second Brain: The Illustrated Notes (maggieappleton.com)](https://maggieappleton.com/basb)
 	- [Evergreen notes by andymatuschak.org](https://notes.andymatuschak.org/Evergreen_notes)
+- [Persona](https://github.com/jayamitkatariya/personacli) - Local-first personal workspace: notes, tasks, and AI chat in plain Markdown.
