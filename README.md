@@ -46,4 +46,5 @@ What is PKM (Personal Knowledge Management): https://en.wikipedia.org/wiki/Perso
 
 - Text Processing Tools
 	- [TopicSplit](https://github.com/andrwspt/topicsplit) - Free offline semantic text grouper — split pasted text into topic segments by meaning. Perfect for atomizing notes in any PKM workflow. 100rowser-based, no server.
+	- [Cold Email Grader](https://github.com/andrwspt/cold-email-grader) - Free offline cold email grader — paste your cold email, get a score out of 100 with actionable fixes. 100% browser-based, no server.
 	- [Meeting Splitter](https://andrwspt.github.io/topicsplit/meeting-splitter.html) - Free offline meeting transcript splitter. Paste any Zoom/Teams/Meet transcript → get clean topic-segmented notes. 100% browser-based, no upload.
