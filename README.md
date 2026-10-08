@@ -28,6 +28,7 @@ What is PKM (Personal Knowledge Management): https://en.wikipedia.org/wiki/Perso
 		- [Ultimate digital graph notebook | Relanote](https://relanote.com/)
 		- [Reflect](https://reflect.app/)
 		- https://capacities.io/
+		- [MonoMap – keyboard-first mind map and kanban board with offline storage](https://monomap.app/)
 	- SaaS no free plan
 		- [Roam Research – A note taking tool for networked thought.](https://roamresearch.com/)
 	- Visual Note-taking Tools
