@@ -22,6 +22,7 @@ What is PKM (Personal Knowledge Management): https://en.wikipedia.org/wiki/Perso
 		- [Coda](https://coda.io)
 		- [Mem.ai](https://mem.ai/)
 		- Evernote
+		- [NoteRich - AI-powered notes with built-in RAG search. 41 languages](https://noterich.com)
 		- Onenote
 		- [Craft - Taking notes to the next level](https://www.craft.do/)
 		- [Zenkit Hypernotes - Experience a new way of collaborative writing.](https://zenkit.com/en/hypernotes/)
