@@ -18,6 +18,7 @@ What is PKM (Personal Knowledge Management): https://en.wikipedia.org/wiki/Perso
 		- [Kuku: Open-source local-first Markdown workspace for macOS](https://kuku.mom)
 		- [lifeos-cli | A terminal-native LifeOS CLI for notes, tasks, habits, schedules, events, and timelogs](https://github.com/liujuanjuan1984/lifeos-cli)
 	- SaaS with free plan
+		- [Aktaba | A frictionless PKMS designed for knowledge analysis and synthesis](https://aktaba.com)
 		- [Notion](https://notion.so)
 		- [RemNote | The All-in-One Tool for Thinking and Learning](https://www.remnote.com/)
 		- [Obsidian](https://obsidian.md/) 
