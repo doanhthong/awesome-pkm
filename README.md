@@ -14,6 +14,8 @@ What is PKM (Personal Knowledge Management): https://en.wikipedia.org/wiki/Perso
 		- [Foam | A personal knowledge management and sharing system for VSCode](https://foambubble.github.io/foam/)
 		- [Athensresearch](https://www.athensresearch.org/)
 		- [Org-roam](https://www.orgroam.com/)
+		- [OATS - open-source macOS meeting notes with live transcription and offline AI summaries](https://github.com/ariso-ai/oats)
+		- [Kuku: Open-source local-first Markdown workspace for macOS](https://kuku.mom)
 		- [lifeos-cli | A terminal-native LifeOS CLI for notes, tasks, habits, schedules, events, and timelogs](https://github.com/liujuanjuan1984/lifeos-cli)
 	- SaaS with free plan
 		- [Notion](https://notion.so)
@@ -30,6 +32,7 @@ What is PKM (Personal Knowledge Management): https://en.wikipedia.org/wiki/Perso
 		- [Ultimate digital graph notebook | Relanote](https://relanote.com/)
 		- [Reflect](https://reflect.app/)
 		- https://capacities.io/
+		- [Simple Memo: quick capture from iPhone into Obsidian or your own inbox](https://simplememofast.com/)
 		- [MonoMap – keyboard-first mind map and kanban board with offline storage](https://monomap.app/)
 	- SaaS no free plan
 		- [Roam Research – A note taking tool for networked thought.](https://roamresearch.com/)
