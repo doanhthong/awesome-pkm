@@ -8,39 +8,47 @@ What is PKM (Personal Knowledge Management): https://en.wikipedia.org/wiki/Perso
 
 
 - Note-taking Tools
-    - Open-source
-        - [Logseq: A privacy-first, open-source knowledge base](https://logseq.com/)
-        - [tiddlyroam · your open source external brain](https://tiddlyroam.org/)
-        - [Foam | A personal knowledge management and sharing system for VSCode](https://foambubble.github.io/foam/)
-        - [Athensresearch](https://www.athensresearch.org/)
-        - [Org-roam](https://www.orgroam.com/)
-    - SaaS with free plan
-        - [Aktaba | A frictionless PKMS designed for knowledge analysis and synthesis](https://aktaba.com)
-        - [Notion](https://notion.so)
-        - [RemNote | The All-in-One Tool for Thinking and Learning](https://www.remnote.com/)
-        - [Obsidian](https://obsidian.md/) 
-        - [Coda](https://coda.io)
-        - [Mem.ai](https://mem.ai/)
-        - Evernote
-        - Onenote
-        - [Craft - Taking notes to the next level](https://www.craft.do/)
-        - [Zenkit Hypernotes - Experience a new way of collaborative writing.](https://zenkit.com/en/hypernotes/)
-        - [Scrapbox - An app that turns your notes into knowledge](https://scrapbox.io/)
-        - [Ultimate digital graph notebook | Relanote](https://relanote.com/)
-        - [Reflect](https://reflect.app/)
-        - https://capacities.io/
-    - SaaS no free plan
-        - [Roam Research – A note taking tool for networked thought.](https://roamresearch.com/)
-    - Visual Note-taking Tools
-        - [Heptabase](https://heptabase.com/)
-        - [Muse App](https://museapp.com/)
-        - https://cloverapp.com/
+	- Open-source
+		- [Logseq: A privacy-first, open-source knowledge base](https://logseq.com/)
+		- [tiddlyroam · your open source external brain](https://tiddlyroam.org/)
+		- [Foam | A personal knowledge management and sharing system for VSCode](https://foambubble.github.io/foam/)
+		- [Athensresearch](https://www.athensresearch.org/)
+		- [Org-roam](https://www.orgroam.com/)
+		- [OATS - open-source macOS meeting notes with live transcription and offline AI summaries](https://github.com/ariso-ai/oats)
+		- [Kuku: Open-source local-first Markdown workspace for macOS](https://kuku.mom)
+		- [lifeos-cli | A terminal-native LifeOS CLI for notes, tasks, habits, schedules, events, and timelogs](https://github.com/liujuanjuan1984/lifeos-cli)
+	- SaaS with free plan
+		- [Aktaba | A frictionless PKMS designed for knowledge analysis and synthesis](https://aktaba.com)
+		- [Notion](https://notion.so)
+		- [RemNote | The All-in-One Tool for Thinking and Learning](https://www.remnote.com/)
+		- [Obsidian](https://obsidian.md/) 
+		- [Coda](https://coda.io)
+		- [Mem.ai](https://mem.ai/)
+		- Evernote
+		- [NoteRich - AI-powered notes with built-in RAG search. 41 languages](https://noterich.com)
+		- Onenote
+		- [Craft - Taking notes to the next level](https://www.craft.do/)
+		- [Zenkit Hypernotes - Experience a new way of collaborative writing.](https://zenkit.com/en/hypernotes/)
+		- [Scrapbox - An app that turns your notes into knowledge](https://scrapbox.io/)
+		- [Ultimate digital graph notebook | Relanote](https://relanote.com/)
+		- [Reflect](https://reflect.app/)
+		- https://capacities.io/
+		- [Simple Memo: quick capture from iPhone into Obsidian or your own inbox](https://simplememofast.com/)
+		- [MonoMap – keyboard-first mind map and kanban board with offline storage](https://monomap.app/)
+	- SaaS no free plan
+		- [Roam Research – A note taking tool for networked thought.](https://roamresearch.com/)
+                - [Quick Capture: Supasend - Capture notes and tasks in all your second brain apps from just one app](https://supasend.app)
+	- Visual Note-taking Tools
+		- [Heptabase](https://heptabase.com/)
+		- [Muse App](https://museapp.com/)
+		- https://cloverapp.com/
 - Bookmarking Tools
-    - [Centroly - Social Bookmarking Tool](https://centroly.com)
-    - [diigo](https://diigo.com)
-    - [Readwise](https://readwise.io/)
-    - [Raindrop.io](https://raindrop.io/)
+	- [Centroly - Social Bookmarking Tool](https://centroly.com)
+	- [diigo](https://diigo.com)
+	- [Readwise](https://readwise.io/)
+	- [Raindrop.io](https://raindrop.io/)
+	- [Burn 451 - 24h bookmark timer with AI-summarized vaults](https://www.burn451.cloud/)
 - Frameworks
-    - [LYT Kit - LYT Kit (linkingyourthinking.com)](https://notes.linkingyourthinking.com/Umami/LYT+Kit)
-    - [Building a Second Brain: The Illustrated Notes (maggieappleton.com)](https://maggieappleton.com/basb)
-    - [Evergreen notes by andymatuschak.org](https://notes.andymatuschak.org/Evergreen_notes)
+	- [LYT Kit - LYT Kit (linkingyourthinking.com)](https://notes.linkingyourthinking.com/Umami/LYT+Kit)
+	- [Building a Second Brain: The Illustrated Notes (maggieappleton.com)](https://maggieappleton.com/basb)
+	- [Evergreen notes by andymatuschak.org](https://notes.andymatuschak.org/Evergreen_notes)
