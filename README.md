@@ -31,7 +31,7 @@ What is PKM (Personal Knowledge Management): https://en.wikipedia.org/wiki/Perso
 	- SaaS no free plan
 		- [Roam Research – A note taking tool for networked thought.](https://roamresearch.com/)
 	- AI-powered / local-first PKM
-		- [Remio](https://remio.ai/) - Local-first AI memory and knowledge base app that indexes notes, files, webpages, recordings, emails, messages, and images for semantic retrieval by users and agents.
+		- [Remio - Local-first AI memory and knowledge base](https://remio.ai/)
 	- Visual Note-taking Tools
 		- [Heptabase](https://heptabase.com/)
 		- [Muse App](https://museapp.com/)
