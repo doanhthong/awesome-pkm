@@ -44,6 +44,7 @@ What is PKM (Personal Knowledge Management): https://en.wikipedia.org/wiki/Perso
 		- [Heptabase](https://heptabase.com/)
 		- [Muse App](https://museapp.com/)
 		- https://cloverapp.com/
+		- [Creatos - Desktop canvas for PDFs, web pages, YouTube videos and notes, with Claude, GPT, Gemini or local Ollama models](https://creatos.io/)
 - Bookmarking Tools
 	- [Centroly - Social Bookmarking Tool](https://centroly.com)
 	- [diigo](https://diigo.com)
