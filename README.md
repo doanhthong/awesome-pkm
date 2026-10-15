@@ -38,6 +38,7 @@ What is PKM (Personal Knowledge Management): https://en.wikipedia.org/wiki/Perso
 	- SaaS no free plan
 		- [Roam Research – A note taking tool for networked thought.](https://roamresearch.com/)
 	- AI-powered / local-first PKM
+		- [Hyperconsciousness (maintainer-submitted)](https://github.com/louis030195/hyperconsciousness) - MIT-licensed developer alpha for encrypted, append-only knowledge, with a Rust engine, CLI, MCP/HTTP server, device sync, and scoped, expiring grants.
 		- [Remio - Local-first AI memory and knowledge base](https://remio.ai/)
                 - [Quick Capture: Supasend - Capture notes and tasks in all your second brain apps from just one app](https://supasend.app)
 	- Visual Note-taking Tools
