@@ -22,6 +22,7 @@ What is PKM (Personal Knowledge Management): https://en.wikipedia.org/wiki/Perso
 		- [Notion](https://notion.so)
 		- [RemNote | The All-in-One Tool for Thinking and Learning](https://www.remnote.com/)
 		- [Obsidian](https://obsidian.md/) 
+		- [Omphalis](https://omphalis.ai) | Finish dense articles, PDFs, podcasts and video; mark passages and keep notes on the source.
 		- [Coda](https://coda.io)
 		- [Mem.ai](https://mem.ai/)
 		- Evernote
