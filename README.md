@@ -17,6 +17,7 @@ What is PKM (Personal Knowledge Management): https://en.wikipedia.org/wiki/Perso
 		- [OATS - open-source macOS meeting notes with live transcription and offline AI summaries](https://github.com/ariso-ai/oats)
 		- [Kuku: Open-source local-first Markdown workspace for macOS](https://kuku.mom)
 		- [lifeos-cli | A terminal-native LifeOS CLI for notes, tasks, habits, schedules, events, and timelogs](https://github.com/liujuanjuan1984/lifeos-cli)
+		- [trip2g: publish your Obsidian vault as a website, self-hosted MCP memory for AI agents](https://github.com/trip2g/trip2g)
 	- SaaS with free plan
 		- [Aktaba | A frictionless PKMS designed for knowledge analysis and synthesis](https://aktaba.com)
 		- [Notion](https://notion.so)
