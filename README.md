@@ -50,6 +50,7 @@ What is PKM (Personal Knowledge Management): https://en.wikipedia.org/wiki/Perso
 	- [Readwise](https://readwise.io/)
 	- [Raindrop.io](https://raindrop.io/)
 	- [Burn 451 - 24h bookmark timer with AI-summarized vaults](https://www.burn451.cloud/)
+	- [Screvi - Highlights manager and read-it-later app with daily spaced-repetition review and Obsidian/Notion sync](https://screvi.com/)
 - Frameworks
 	- [LYT Kit - LYT Kit (linkingyourthinking.com)](https://notes.linkingyourthinking.com/Umami/LYT+Kit)
 	- [Building a Second Brain: The Illustrated Notes (maggieappleton.com)](https://maggieappleton.com/basb)
