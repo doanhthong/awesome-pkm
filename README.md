@@ -39,6 +39,7 @@ What is PKM (Personal Knowledge Management): https://en.wikipedia.org/wiki/Perso
 		- [Roam Research – A note taking tool for networked thought.](https://roamresearch.com/)
 	- AI-powered / local-first PKM
 		- [Remio - Local-first AI memory and knowledge base](https://remio.ai/)
+		- [Helicon - PDF and EPUB reader with margin-note pins, Review and Markdown export, notes kept on device and in iCloud](https://apps.apple.com/app/id6811677202?pt=125973633&ct=gh-pkm)
                 - [Quick Capture: Supasend - Capture notes and tasks in all your second brain apps from just one app](https://supasend.app)
 	- Visual Note-taking Tools
 		- [Heptabase](https://heptabase.com/)
