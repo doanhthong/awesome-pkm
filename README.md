@@ -43,6 +43,7 @@ What is PKM (Personal Knowledge Management): https://en.wikipedia.org/wiki/Perso
 	- Visual Note-taking Tools
 		- [Heptabase](https://heptabase.com/)
 		- [Muse App](https://museapp.com/)
+		- [StickyBoard - sticky notes on an infinite canvas, pinnable to the desktop, for Mac and Windows](https://getapps.cafe/app/stickyboard)
 		- https://cloverapp.com/
 - Bookmarking Tools
 	- [Centroly - Social Bookmarking Tool](https://centroly.com)
