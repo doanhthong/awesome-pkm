@@ -44,6 +44,7 @@ What is PKM (Personal Knowledge Management): https://en.wikipedia.org/wiki/Perso
 		- [Heptabase](https://heptabase.com/)
 		- [Muse App](https://museapp.com/)
 		- https://cloverapp.com/
+		- [MindNote - keyboard-first mind map that switches between an outline and a visual map, for Mac and Windows](https://getapps.cafe/app/mindnote)
 - Bookmarking Tools
 	- [Centroly - Social Bookmarking Tool](https://centroly.com)
 	- [diigo](https://diigo.com)
