@@ -20,6 +20,7 @@ What is PKM (Personal Knowledge Management): https://en.wikipedia.org/wiki/Perso
 	- SaaS with free plan
 		- [Aktaba | A frictionless PKMS designed for knowledge analysis and synthesis](https://aktaba.com)
 		- [Notion](https://notion.so)
+		- [LocArk - Local-first workspace with free Markdown notes, password records and quick capture; Pro adds kanban boards and mind maps](https://locark.com/)
 		- [RemNote | The All-in-One Tool for Thinking and Learning](https://www.remnote.com/)
 		- [Obsidian](https://obsidian.md/) 
 		- [Coda](https://coda.io)
