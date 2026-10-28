@@ -35,6 +35,7 @@ What is PKM (Personal Knowledge Management): https://en.wikipedia.org/wiki/Perso
 		- https://capacities.io/
 		- [Simple Memo: quick capture from iPhone into Obsidian or your own inbox](https://simplememofast.com/)
 		- [MonoMap – keyboard-first mind map and kanban board with offline storage](https://monomap.app/)
+		- [Mind Elixir | Mind mapping app for organizing ideas into interactive maps, with outline mode, tags and MCP support](https://app.mind-elixir.com/)
 	- SaaS no free plan
 		- [Roam Research – A note taking tool for networked thought.](https://roamresearch.com/)
 	- AI-powered / local-first PKM
