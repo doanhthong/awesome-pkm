@@ -32,6 +32,7 @@ What is PKM (Personal Knowledge Management): https://en.wikipedia.org/wiki/Perso
 		- [Scrapbox - An app that turns your notes into knowledge](https://scrapbox.io/)
 		- [Ultimate digital graph notebook | Relanote](https://relanote.com/)
 		- [Reflect](https://reflect.app/)
+		- [Culma | The collaborative knowledge base with end-to-end encryption](https://culma.eu/)
 		- https://capacities.io/
 		- [Simple Memo: quick capture from iPhone into Obsidian or your own inbox](https://simplememofast.com/)
 		- [MonoMap – keyboard-first mind map and kanban board with offline storage](https://monomap.app/)
