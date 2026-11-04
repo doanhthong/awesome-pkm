@@ -44,6 +44,7 @@ What is PKM (Personal Knowledge Management): https://en.wikipedia.org/wiki/Perso
 		- [Heptabase](https://heptabase.com/)
 		- [Muse App](https://museapp.com/)
 		- https://cloverapp.com/
+		- [Knovum: Open-source local-first 2D spatial AI knowledge canvas](https://github.com/madebyzan/knovum)
 - Bookmarking Tools
 	- [Centroly - Social Bookmarking Tool](https://centroly.com)
 	- [diigo](https://diigo.com)
