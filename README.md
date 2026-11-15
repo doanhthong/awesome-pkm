@@ -39,6 +39,7 @@ What is PKM (Personal Knowledge Management): https://en.wikipedia.org/wiki/Perso
 		- [Roam Research – A note taking tool for networked thought.](https://roamresearch.com/)
 	- AI-powered / local-first PKM
 		- [Remio - Local-first AI memory and knowledge base](https://remio.ai/)
+		- [GetYouTubeTranscript for Obsidian - insert a YouTube video's transcript into a note or create a note from it](https://community.obsidian.md/plugins/getyoutubetranscript)
                 - [Quick Capture: Supasend - Capture notes and tasks in all your second brain apps from just one app](https://supasend.app)
 	- Visual Note-taking Tools
 		- [Heptabase](https://heptabase.com/)
