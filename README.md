@@ -40,6 +40,7 @@ What is PKM (Personal Knowledge Management): https://en.wikipedia.org/wiki/Perso
 	- AI-powered / local-first PKM
 		- [Remio - Local-first AI memory and knowledge base](https://remio.ai/)
                 - [Quick Capture: Supasend - Capture notes and tasks in all your second brain apps from just one app](https://supasend.app)
+		- [Sparkkeep - Open-source self-hosted action engine and triage board for notes, links, and media with local AI](https://github.com/BurlacuAndrei/sparkkeep)
 	- Visual Note-taking Tools
 		- [Heptabase](https://heptabase.com/)
 		- [Muse App](https://museapp.com/)
