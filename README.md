@@ -43,6 +43,7 @@ What is PKM (Personal Knowledge Management): https://en.wikipedia.org/wiki/Perso
 	- Visual Note-taking Tools
 		- [Heptabase](https://heptabase.com/)
 		- [Muse App](https://museapp.com/)
+		- [3DMindNet: notes as an interactive 3D graph, with Notion sync](https://3dmindnet.com/)
 		- https://cloverapp.com/
 - Bookmarking Tools
 	- [Centroly - Social Bookmarking Tool](https://centroly.com)
