@@ -35,6 +35,7 @@ What is PKM (Personal Knowledge Management): https://en.wikipedia.org/wiki/Perso
 		- https://capacities.io/
 		- [Simple Memo: quick capture from iPhone into Obsidian or your own inbox](https://simplememofast.com/)
 		- [MonoMap – keyboard-first mind map and kanban board with offline storage](https://monomap.app/)
+		- [PastNoise - Curated primary-voice podcast documentaries with bilingual transcripts, PubMed/Crossref citations, and Obsidian Markdown export](https://pastnoise.com/)
 	- SaaS no free plan
 		- [Roam Research – A note taking tool for networked thought.](https://roamresearch.com/)
 	- AI-powered / local-first PKM
