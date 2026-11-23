@@ -44,6 +44,7 @@ What is PKM (Personal Knowledge Management): https://en.wikipedia.org/wiki/Perso
 		- [Heptabase](https://heptabase.com/)
 		- [Muse App](https://museapp.com/)
 		- https://cloverapp.com/
+		- [mindmap.io | Capture and develop your ideas visually, with an AI chat in any node](https://mindmap.io/)
 - Bookmarking Tools
 	- [Centroly - Social Bookmarking Tool](https://centroly.com)
 	- [diigo](https://diigo.com)
